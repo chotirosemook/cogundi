@@ -10,7 +10,7 @@
         top:0;
         left:0;
       }
-</style>
+</style>xcxcxc
 <!-- header -->
 <div class="row  page-home-manual">
   <div class="col-md-8 col-sm-8">
